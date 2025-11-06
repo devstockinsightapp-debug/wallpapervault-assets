@@ -1,0 +1,23 @@
+[
+  {
+    "id": "wallpaper_001",
+    "title": "Ocean Serenity",
+    "thumb_url": "https://raw.githubusercontent.com/devstockinsightapp-debug/wallpapervault-assets/main/thumbs/ocean_thumb.jpg",
+    "image_url": "https://raw.githubusercontent.com/devstockinsightapp-debug/wallpapervault-assets/main/full/ocean_full.jpg",
+    "product_id": "wallpaper_ocean"
+  },
+  {
+    "id": "wallpaper_002",
+    "title": "Mountain Glow",
+    "thumb_url": "https://raw.githubusercontent.com/devstockinsightapp-debug/wallpapervault-assets/main/thumbs/mountain_thumb.jpg",
+    "image_url": "https://raw.githubusercontent.com/devstockinsightapp-debug/wallpapervault-assets/main/full/mountain_full.jpg",
+    "product_id": "wallpaper_mountain"
+  },
+  {
+    "id": "wallpaper_003",
+    "title": "City Lights",
+    "thumb_url": "https://raw.githubusercontent.com/devstockinsightapp-debug/wallpapervault-assets/main/thumbs/city_thumb.jpg",
+    "image_url": "https://raw.githubusercontent.com/devstockinsightapp-debug/wallpapervault-assets/main/full/city_full.jpg",
+    "product_id": "wallpaper_city"
+  }
+]
